@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webEval", "webEval\webEval.csproj", "{CAE939AE-5FB5-4F13-97B5-B891D0E62754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE939AE-5FB5-4F13-97B5-B891D0E62754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE939AE-5FB5-4F13-97B5-B891D0E62754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE939AE-5FB5-4F13-97B5-B891D0E62754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE939AE-5FB5-4F13-97B5-B891D0E62754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE935684-7435-41DA-8E68-821ED0C5EA73}
+	EndGlobalSection
+EndGlobal
